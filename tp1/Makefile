@@ -12,3 +12,4 @@ clean :
 
 mrproper : clean
 	rm -rf submax
+	clear
